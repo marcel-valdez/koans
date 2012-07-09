@@ -1,4 +1,5 @@
-require 'test/unit'
+#require 'test/unit'
+#require 'test/unit/autorunner'
 
 class TestSomething < Test::Unit::TestCase
   def test_assert

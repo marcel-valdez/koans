@@ -1,7 +1,9 @@
 #!/usr/bin/env ruby
 # -*- ruby -*-
 
+require 'test/unit/autorunner'
 require 'test/unit/assertions'
+
 begin
   require 'win32console'
 rescue LoadError
