@@ -1,67 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb29acbf-4096-48df-9236-4ee9e824066f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/marcel.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/GREED_RULES.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_array_assignment.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_arrays.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_asserts.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_blocks.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_class_methods.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_classes.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_constants.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_control_statements.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_dice_project.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_exceptions.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_extra_credit.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_hashes.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_inheritance.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_iteration.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_java_interop.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_message_passing.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_methods.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_modules.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_nil.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_objects.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_open_classes.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_proxy_object_project.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_regular_expressions.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_sandwich_code.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_scope.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_scoring_project.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_strings.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_symbols.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_to_str.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_triangle_project.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_triangle_project_2.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about_true_and_false.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/array_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/autotest/discover.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/autotest/rubykoan.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/code_mash.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/edgecase.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/example_file.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/first_test.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/koans/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/path_to_enlightenment.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/test_helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle.rb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.bundle/config" afterPath="$PROJECT_DIR$/.bundle/config" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/.path_progress" afterPath="$PROJECT_DIR$/koans/.path_progress" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_blocks.rb" afterPath="$PROJECT_DIR$/koans/about_blocks.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_constants.rb" afterPath="$PROJECT_DIR$/koans/about_constants.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_control_statements.rb" afterPath="$PROJECT_DIR$/koans/about_control_statements.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_exceptions.rb" afterPath="$PROJECT_DIR$/koans/about_exceptions.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_iteration.rb" afterPath="$PROJECT_DIR$/koans/about_iteration.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_methods.rb" afterPath="$PROJECT_DIR$/koans/about_methods.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_sandwich_code.rb" afterPath="$PROJECT_DIR$/koans/about_sandwich_code.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/about_true_and_false.rb" afterPath="$PROJECT_DIR$/koans/about_true_and_false.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/koans/triangle.rb" afterPath="$PROJECT_DIR$/koans/triangle.rb" />
-    </list>
+    <list default="true" id="cb29acbf-4096-48df-9236-4ee9e824066f" name="Default" comment="" />
     <ignored path="koans.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -516,7 +456,7 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32983193" sideWeight="0.498394" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32983193" sideWeight="0.49785867" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32983193" sideWeight="0.49785867" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
