@@ -14,7 +14,7 @@ class AboutSandwichCode < EdgeCase::Koan
   end
 
   def test_counting_lines
-    assert_equal __, count_lines("example_file.txt")
+    assert_equal 4, count_lines("example_file.txt")
   end
 
   # ------------------------------------------------------------------
@@ -29,7 +29,7 @@ class AboutSandwichCode < EdgeCase::Koan
   end
 
   def test_finding_lines
-    assert_equal __, find_line("example_file.txt")
+    assert_equal "test\n", find_line("example_file.txt")
   end
 
   # ------------------------------------------------------------------
@@ -56,6 +56,8 @@ class AboutSandwichCode < EdgeCase::Koan
 
   def file_sandwich(file_name)
     file = open(file_name)
+    # method calls with yield can be used to "wrap calls"
+    # to reduce code duplication, and to modify behavior.
     yield(file)
   ensure
     file.close if file
@@ -64,6 +66,10 @@ class AboutSandwichCode < EdgeCase::Koan
   # Now we write:
 
   def count_lines2(file_name)
+    # if a method has the yield keyword, then a block passed to it or
+    # used with the do operator, will receive the yielded argument.
+    # Notice this is similar to they reserved language modifications used to create functions like:
+    # for, while, if, etc...
     file_sandwich(file_name) do |file|
       count = 0
       while line = file.gets
@@ -74,7 +80,7 @@ class AboutSandwichCode < EdgeCase::Koan
   end
 
   def test_counting_lines2
-    assert_equal __, count_lines2("example_file.txt")
+    assert_equal 4, count_lines2("example_file.txt")
   end
 
   # ------------------------------------------------------------------

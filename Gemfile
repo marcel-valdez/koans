@@ -1,0 +1,6 @@
+gem 'rake'
+gem 'activesupport'
+#gem 'minitest'
+#gem 'minitest-reporters'
+#gem 'rspec'
+gem 'test-unit'
